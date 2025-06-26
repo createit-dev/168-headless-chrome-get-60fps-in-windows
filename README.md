@@ -35,3 +35,5 @@ Saved screenshots will be placed in /screens/ directory. Here are 3 screenshots 
 
 ![](https://github.com/createit-dev/168-headless-chrome-get-60fps-in-windows/blob/master/images/playwright-headless-60-fps.jpg)
 
+
+Read more in our full article: https://www.createit.com/blog/headless-chrome-testing-webgl-using-playwright/ 
